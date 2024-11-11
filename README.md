@@ -13,3 +13,22 @@
 >  5. *Overtime and Weekend Pay:* Accounts for overtime hours and special weekend rates for F4 grade employees.
 >  6. *Robust Error Handling:* Ensures stability when processing inconsistent or unexpected input data.
 
+## **Code Brainstorming:**
+
+### **Memory Safety:**
+
+>  1. Prefer stack allocation over heap allocation when possible.
+>  2. Use std::array for fixed-size arrays instead of C-style arrays.
+>  3. Employ std::vector for dynamic arrays.
+
+### **Modern Language Features:**
+
+>  1. Use auto for type inference where appropriate.
+>  2. Employ range-based for loops.
+>  3. Utilize structured bindings for multiple return values.
+
+### **Functional Programming Concepts:**
+
+>  1. Use lambda expressions for short, local functions.
+>  2. Employ std::function for storing callable objects.
+>  3. Utilize higher-order functions from 'algorithm' library.
