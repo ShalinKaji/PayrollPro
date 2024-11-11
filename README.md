@@ -7,8 +7,9 @@
 ### **Key Features:**
 
 >  1. *Multi-Department Support:* Processes payroll data for multiple departments simultaneously.
-   2. *Flexible Time Format Parsing:* Handles various time input formats (e.g., "8 hours 20 minutes", "7hrs 10min", "9 hours"). 
-   3. *Multiple Pay Grade Calculations:* Implements distinct calculation logic for different pay grades (F1, F2, F3, F4).
-   4. *Commission-Based Salary Processing:* Calculates salaries for commission-based employees (F3 grade).
-   5. *Overtime and Weekend Pay:* Accounts for overtime hours and special weekend rates for F4 grade employees.
-   6. *Robust Error Handling:* Ensures stability when processing inconsistent or unexpected input data.
+>  2. *Flexible Time Format Parsing:* Handles various time input formats (e.g., "8 hours 20 minutes", "7hrs 10min", "9 hours"). 
+>  3. *Multiple Pay Grade Calculations:* Implements distinct calculation logic for different pay grades (F1, F2, F3, F4).
+>  4. *Commission-Based Salary Processing:* Calculates salaries for commission-based employees (F3 grade).
+>  5. *Overtime and Weekend Pay:* Accounts for overtime hours and special weekend rates for F4 grade employees.
+>  6. *Robust Error Handling:* Ensures stability when processing inconsistent or unexpected input data.
+
